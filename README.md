@@ -33,4 +33,4 @@ This is a Php tools Cli and advanced.
 <h2> please follow and subscribe me : </h2>
 <b></b2>
 
-<a href=\"https://t.me/san_trich\">@San_Trich</a>
+<a href="https://t.me/san_trich">@San_Trich</a>
