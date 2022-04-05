@@ -275,7 +275,7 @@ class XHandler extends EventHandler
             }
             $inff         = $inf['full']['full_user'];
             $me_name      = $inf['User']['first_name'];
-            $me_bio       = isset($inff['about']) ? $inff['about'] : 'SylixSelf V:1.0.0';
+            $me_bio       = isset($inff['about']) ? $inff['about'] : 'V:1.0.0';
             if (!file_exists('data/name.txt')) {
                 file_put_contents('data/name.txt', $me_name);
             }
